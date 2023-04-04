@@ -1,0 +1,5 @@
+how we make clone of files from githu 
+
+1. git clone
+
+2.git pull
