@@ -1,5 +1,10 @@
 we are adding our files from local repo to github
 
+first connect with our github account
+
+use command -> git config --global user.email "you@example.com" (or)
+  		   git config --global user.name "Your Name"
+
 step 1-> git add - 1.git add -A
 		2.git add fileName
 		3.geu add *

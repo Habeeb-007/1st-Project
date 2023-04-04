@@ -1,5 +1,7 @@
-how we make clone of files from githu 
+how to create/copy a repo from github to local machine
 
-1. git clone
+1. git clone (we need to paste ssh link from that repo)like this"git@github.com:Habeeb-007/1st-Project.git"
+	-> ex: git clone git@github.com:Habeeb-007/1st-Project.git
 
-2.git pull
+if we want update a local repo
+2. git pull
