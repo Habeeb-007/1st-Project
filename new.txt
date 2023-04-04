@@ -5,3 +5,4 @@ how to create/copy a repo from github to local machine
 
 if we want update a local repo
 2. git pull
+ thank you
